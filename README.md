@@ -17,4 +17,4 @@
 **Projects & Open Source Contributions**: 
 - [Kensa](https://github.com/oslabs-beta/Kensa) - An open-source GraphQL monitoring and testing tool that equips developers with the metrics and tools necessary to monitor and test their GraphQL requests, always ensuring the health and performance of their server.
 - [tasksAI](https://github.com/ASAPDevs/tasksAI) - A mobile task-organization app that utilizes machine learning to help users boost productivity by generating task recommendations based on their daily interactions with the app.
-- [MonoJStich](https://github.com/tommyli10/MonoJStich) - Code snippet sharing app that allows people to share their favorite JavaScript one-liners.
+- [MonoJStich](https://github.com/tommyli10/MonoJStich) - Code snippet sharing app that allows people to share their favorite JavaScript one-liners
