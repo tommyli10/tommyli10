@@ -8,6 +8,8 @@
   <a href="https://www.linkedin.com/in/tommyli10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
 
+  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="50px"> <img src="https://media4.giphy.com/media/dlh7c1N7NqrH1ns4Yf/giphy.gif" height="50px">
+
 <h1 align="center">Passionate full stack software engineer from California</h1>
 <br>
 
@@ -18,94 +20,94 @@
 <table bordercolor="#33bef5">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Native Dads Network</h3>
+      <h3 align="center">Kensa</h3>
       <br />
-      <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/173471478-1d17787f-63f0-41f2-bc3f-4ccb5b39ea82.png" />
+      <a href="https://github.com/oslabs-beta/Kensa" target="_blank">
+        <img src="https://tommy-li.com/static/ebe17cd0533fa8e13400bf5b61566013/f8e23/kensa-1.png" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
+        <a href="https://github.com/oslabs-beta/Kensa" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://nativedadsnetwork.org/" target="_blank">
+        <a href="https://kensats.link/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client Project redoing their entire website
+        <strong>React, Redux Toolkit, TypeScript, GraphQL, Apollo, Node/Express, PostgreSQL, AWS, Docker, ChakraUI, D3/ChartJS, JWT, HTML, CSS</strong> - Co-creator of Open Source App
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Native Story Books</h3>
+      <h3 align="center">tasksAI</h3>
       <br />
-      <a href="https://github.com/IsaacHHB/NativeStoryBooks" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/192878628-1aad0265-0a45-4e7e-8f5e-bdd5a642375e.png" />
+      <a href="https://github.com/ASAPDevs/tasksAI" target="_blank">
+        <img src="https://tommy-li.com/static/36a35ac8546142166632b408f953ed01/b2101/proTask4.png" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/NativeStoryBooks" target="_blank">
+        <a href="https://github.com/ASAPDevs/tasksAI" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://native-story-books.onrender.com" target="_blank">
+        <a href="https://taskai.io/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>Node, Express, MongoDB, Mongoose, JavaScript, HTML, HandleBars, CSS, and JSON</strong> - A full stack web application for uploading traditional tribal          stories to.
+        <strong>React Native, Expo, NativeBase, GraphQL, Node.JS, Python, Flask, Redux Toolkit</strong> - Mobile task-organization app that utilizes machine learning to help users boost productivity.
       </p>
     </td>
   </tr> 
   <tr>
    <td width="50%" valign="top">
-      <h3 align="center">Hollow Horn Bear Website</h3>
+      <h3 align="center">ToLi Development</h3>
       <br />
-      <a href="https://hollowhornbear.com/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/179323060-6baea5b4-f5b8-4dd2-bda9-9474bf224886.png" />
+      <a href="https://toli.dev/" target="_blank">
+        <img src="https://camo.githubusercontent.com/6ff5e53b4b291b8bfaa39485a6926bdcfa33c65d39a8ccb064d6a72cee56a948/68747470733a2f2f692e696d6775722e636f6d2f7243614265734b2e706e67" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/isaac-website2" target="_blank">
+        <a href="https://github.com/tommyli10/toli-dev" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://hollowhornbear.com/" target="_blank">
+        <a href="https://toli.dev/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, and JSON</strong> - My website for my portfolio.
+        <strong>JavaScript, React, Gatsby, Sass, Netlify</strong> - My website for my portfolio.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Vegetarian API</h3>
+      <h3 align="center">MonoJStich</h3>
       <br />
-      <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/173470789-badb979d-8bf2-428a-9e71-06ffbb729493.png" />
+      <a href="https://github.com/tommyli10/MonoJStich" target="_blank">
+        <img src="https://tommy-li.com/static/61c846f297c4cab583305729c071bf9f/e258d/mono-2.png" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
+        <a href="https://github.com/tommyli10/MonoJStich" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://veggieapi.netlify.app/" target="_blank">
+        <a href="https://monojstick.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, JSON</strong> - Check the UPC barcode if the product you purchased is vegetarian.
+        <strong>JavaScript, React, Bootstrap, Firebase, Firestore, Webpack</strong> - A place for people to share their favorite Javascript oneliners.
       </p>
     </td>
    </tr>
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Menu Tracker</h3>
+      <h3 align="center">Reddit Filter</h3>
       <br />
-      <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/188972022-146e5a62-c3a1-4d37-bc6e-4aae34efee6f.png" />
+      <a href="https://github.com/tommyli10/reddit-filter" target="_blank">
+        <img src="https://camo.githubusercontent.com/0df5346ce5fc4572d8502fff835e9abf8c3fb0a2199a6c151581a8d93850cab9/68747470733a2f2f63646e2e676c697463682e676c6f62616c2f34626536633235372d386238352d343335382d393134332d3336636638626538396639382f66696c7465722e504e473f763d31363530393536313632303730" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/MenuHub" target="_blank">
+        <a href="https://github.com/tommyli10/reddit-filter" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="" target="_blank">
@@ -113,32 +115,27 @@
         </a>
       </p>
       <p>
-        <strong>Node.js, EJS, JavaScript, HTML, CSS, JSON</strong> - Keep track of your favorite restuarants online menus!
+        <strong>JavaScript, HTML, CSS, Manifest v3</strong> - Tired of seeing the same Reddit posts, this is a Chrome extension that help you filter out unwanted posts.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Star Trek App</h3>
+      <h3 align="center">Simple Blackjack</h3>
       <br />
-      <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/173469258-825fb1d6-149f-4504-96e0-e336d9c320a7.png" />
+      <a href="https://github.com/tommyli10/simple-blackjack" target="_blank">
+        <img src="https://camo.githubusercontent.com/21b4adba56e1aeb1a0dd1e5c031843d70a9d21d5fd8a6a494d5774fdae4bc7bf/68747470733a2f2f63646e2e676c697463682e676c6f62616c2f38303530656562312d656336362d343631392d393265312d3635366136633839323536642f626c61636b6a61636b2e504e473f763d31363531393438333031383734" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
+        <a href="https://github.com/tommyli10/simple-blackjack" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://startrekinfo.netlify.app/" target="_blank">
+        <a href="/https://simple-blackjack.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       <p align="center">Also take a look at the back end code hosted on Heroku</p>
-      <p align="center">
-        <a href="https://github.com/IsaacHHB/star-trek-api" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-      </p>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
+        <strong>JavaScript, HTML, CSS, Axios</strong> - A simple Blackjack game built with bootstrap, axios libraries, and Deck of Cards API.
       </p>
     </td>
   </tr>
