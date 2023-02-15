@@ -131,7 +131,6 @@
         <a href="https://simple-blackjack.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
-      <p align="center">Also take a look at the back end code hosted on Heroku</p>
       </p>
       <p>
         <strong>JavaScript, HTML, CSS, Axios</strong> - A simple Blackjack game built with bootstrap, axios libraries, and Deck of Cards API.
