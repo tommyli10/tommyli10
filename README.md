@@ -14,8 +14,6 @@
   <h1 align="center">Hi, I'm Tommy!</h1>
 <br>
 
-![](gitartwork.svg)
-
 <br>
   
 <table bordercolor="#33bef5">
@@ -141,3 +139,5 @@
     </td>
   </tr>
 </table>
+
+![](gitartwork.svg)
