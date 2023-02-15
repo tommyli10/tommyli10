@@ -23,12 +23,12 @@
       <h3 align="center">Kensa</h3>
       <br />
       <a href="https://github.com/oslabs-beta/Kensa" target="_blank">
-        <img src="https://tommy-li.com/static/ebe17cd0533fa8e13400bf5b61566013/f8e23/kensa-1.png" />
+        <img src="https://tommy-li.com/static/ebe17cd0533fa8e13400bf5b61566013/f8e23/kensa-1.png" height="300px" width="100%" />
       </a>
       <br />
       <p align="center">
         <a href="https://github.com/oslabs-beta/Kensa" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white"  />
         </a>
         <a href="https://kensats.link/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
@@ -42,7 +42,7 @@
       <h3 align="center">tasksAI</h3>
       <br />
       <a href="https://github.com/ASAPDevs/tasksAI" target="_blank">
-        <img src="https://tommy-li.com/static/36a35ac8546142166632b408f953ed01/b2101/proTask4.png" />
+        <img src="https://taskai.io/static/617d07747ba8c04295391c98afe52fe8/4dac1/proTask2.webp" height="300px" width="100%" />
       </a>
       <br />
       <p align="center">
@@ -63,7 +63,7 @@
       <h3 align="center">ToLi Development</h3>
       <br />
       <a href="https://toli.dev/" target="_blank">
-        <img src="https://camo.githubusercontent.com/6ff5e53b4b291b8bfaa39485a6926bdcfa33c65d39a8ccb064d6a72cee56a948/68747470733a2f2f692e696d6775722e636f6d2f7243614265734b2e706e67" />
+        <img src="https://camo.githubusercontent.com/6ff5e53b4b291b8bfaa39485a6926bdcfa33c65d39a8ccb064d6a72cee56a948/68747470733a2f2f692e696d6775722e636f6d2f7243614265734b2e706e67" height="300px" width="100%" />
       </a>
       <br />
       <p align="center">
@@ -82,7 +82,7 @@
       <h3 align="center">MonoJStich</h3>
       <br />
       <a href="https://github.com/tommyli10/MonoJStich" target="_blank">
-        <img src="https://tommy-li.com/static/61c846f297c4cab583305729c071bf9f/e258d/mono-2.png" />
+        <img src="https://tommy-li.com/static/61c846f297c4cab583305729c071bf9f/e258d/mono-2.png" height="300px" width="100%" />
       </a>
       <br />
       <p align="center">
@@ -103,7 +103,7 @@
       <h3 align="center">Reddit Filter</h3>
       <br />
       <a href="https://github.com/tommyli10/reddit-filter" target="_blank">
-        <img src="https://camo.githubusercontent.com/0df5346ce5fc4572d8502fff835e9abf8c3fb0a2199a6c151581a8d93850cab9/68747470733a2f2f63646e2e676c697463682e676c6f62616c2f34626536633235372d386238352d343335382d393134332d3336636638626538396639382f66696c7465722e504e473f763d31363530393536313632303730" />
+        <img src="https://camo.githubusercontent.com/0df5346ce5fc4572d8502fff835e9abf8c3fb0a2199a6c151581a8d93850cab9/68747470733a2f2f63646e2e676c697463682e676c6f62616c2f34626536633235372d386238352d343335382d393134332d3336636638626538396639382f66696c7465722e504e473f763d31363530393536313632303730" height="300px" width="100%" />
       </a>
       <br />
       <p align="center">
@@ -122,7 +122,7 @@
       <h3 align="center">Simple Blackjack</h3>
       <br />
       <a href="https://github.com/tommyli10/simple-blackjack" target="_blank">
-        <img src="https://camo.githubusercontent.com/21b4adba56e1aeb1a0dd1e5c031843d70a9d21d5fd8a6a494d5774fdae4bc7bf/68747470733a2f2f63646e2e676c697463682e676c6f62616c2f38303530656562312d656336362d343631392d393265312d3635366136633839323536642f626c61636b6a61636b2e504e473f763d31363531393438333031383734" />
+        <img src="https://camo.githubusercontent.com/21b4adba56e1aeb1a0dd1e5c031843d70a9d21d5fd8a6a494d5774fdae4bc7bf/68747470733a2f2f63646e2e676c697463682e676c6f62616c2f38303530656562312d656336362d343631392d393265312d3635366136633839323536642f626c61636b6a61636b2e504e473f763d31363531393438333031383734" height="300px" width="100%" />
       </a>
       <br />
       <p align="center">
