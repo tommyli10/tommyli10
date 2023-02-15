@@ -14,6 +14,8 @@
   <h2 align="center">Hi, I'm Tommy! I am a passionate full stack software engineer from California</h2>
 <br>
 
+![](gitartwork.svg)
+
 <table bordercolor="#33bef5">
   <tr>
     <td width="50%" valign="top">
@@ -138,4 +140,4 @@
   </tr>
 </table>
 
-![](gitartwork.svg)
+
