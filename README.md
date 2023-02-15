@@ -41,7 +41,7 @@
       <h3 align="center">tasksAI</h3>
       <br />
       <a href="https://github.com/ASAPDevs/tasksAI" target="_blank">
-        <img src="https://taskai.io/static/617d07747ba8c04295391c98afe52fe8/4dac1/proTask2.webp" height="250px" width="100%" />
+        <img src="https://toli.dev/static/8f26eaed7603772724a934d0d1ae598b/4dac1/proTask4.webp" height="250px" width="100%" />
       </a>
       <br />
       <p align="center">
