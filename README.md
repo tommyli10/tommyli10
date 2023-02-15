@@ -128,7 +128,7 @@
         <a href="https://github.com/tommyli10/simple-blackjack" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="/https://simple-blackjack.netlify.app" target="_blank">
+        <a href="https://simple-blackjack.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       <p align="center">Also take a look at the back end code hosted on Heroku</p>
