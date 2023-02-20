@@ -168,6 +168,9 @@
   <a href="https://tailwindcss.com/docs/installation" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss&logoColor=white&labelColor=AD9D90&label=&message=TAILWIND&color=AD9D90"/>
   </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=bootstrap&logoColor=white&labelColor=AD9D90&label=&message=BOOTSTRAP&color=AD9D90"/>
+  </a>
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=mongodb&logoColor=white&labelColor=AD9D90&label=&message=MONGODB&color=AD9D90"/>
   </a>
