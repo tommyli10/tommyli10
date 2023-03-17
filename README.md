@@ -87,7 +87,7 @@
       <h3 align="center">Kensa</h3>
       <br />
       <a href="https://github.com/oslabs-beta/Kensa" target="_blank">
-        <img src="https://tommy-li.com/static/ebe17cd0533fa8e13400bf5b61566013/f8e23/kensa-1.png" height="250px" width="100%" />
+        <img src="https://i.imgur.com/lj8ecH2.png" height="250px" width="100%" />
       </a>
       <br />
       <p align="center">
@@ -167,7 +167,7 @@
       <h3 align="center">MonoJStich</h3>
       <br />
       <a href="https://github.com/tommyli10/MonoJStich" target="_blank">
-        <img src="https://tommy-li.com/static/61c846f297c4cab583305729c071bf9f/e258d/mono-2.png" height="250px" width="100%" />
+        <img src="https://i.imgur.com/Xh8g6ef.png" height="250px" width="100%" />
       </a>
       <br />
       <p align="center">
